@@ -1,2 +1,3 @@
 string=raw_input()
-print string+'.'
+string=string+'.'
+print string
